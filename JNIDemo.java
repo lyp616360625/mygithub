@@ -1,4 +1,4 @@
-
+112231122311223112231122311223112231122311223112231122311223
 public class JNIDemo {
 	static { 		/* 1. load */
 		System.loadLibrary("native"); /* libnative.so */
